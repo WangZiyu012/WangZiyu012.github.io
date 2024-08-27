@@ -4,6 +4,6 @@
 
 # Experience
 
-**<p style="text-align:left;">University of Tokyo**, School of Engineering</p> <p style="text-align:right;">**Master** Degree, <u>2023/10 ~ 2025/9</u></p>
+**University of Tokyo**, School of Engineering**Master** Degree, <u>2023/10 ~ 2025/9</u>
 
-**<p style="text-align:left;">Xi'an Jiaotong University**, School of Mathematics and Statistics</p> <p style="text-align:right;">**Bachelor** Degree, Honors Degree in QianXueSen College, <u>2019/8 ~ 2023/7</u></p>
+**Xi'an Jiaotong University**, School of Mathematics and Statistics **Bachelor** Degree, Honors Degree in QianXueSen College, <u>2019/8 ~ 2023/7</u>
