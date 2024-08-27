@@ -1,6 +1,8 @@
 # Welcome!
 
-**Hi I'm Ziyu Wang, currently a master student @University of Tokyo. My research interest are graph machine learning, primarily focusing on application on knowledge graph, computer vision and network efficiency.**
+**Hi I'm Ziyu Wang, currently a master student @University of Tokyo. 
+
+My research interest are graph machine learning, primarily focusing on application on knowledge graph, computer vision and network efficiency.**
 
 # Experience
 
